@@ -15,6 +15,11 @@ Can we predict the popularity of a song based on its audio characteristics such 
 - **Type**: Regression (popularity score prediction)  
 
 ---
+# équipe : 
+  Syrine Bejaoui
+
+
+---
 
 ## 📊 Dataset
 
